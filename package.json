@@ -23,7 +23,6 @@
         "helmet": "^4.0.0",
         "node": "^15.0.1",
         "knex": "^0.21.2",
-        "node": "^15.0.1",
         "sqlite3": "^5.0.0"
     },
     "devDependencies": {
