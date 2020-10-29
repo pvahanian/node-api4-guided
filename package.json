@@ -19,6 +19,7 @@
     "homepage": "https://github.com/LambdaSchool/node-api4-guided#readme",
     "dependencies": {
         "-": "0.0.1",
+        "dotenv": "^8.2.0",
         "express": "^4.17.1",
         "g": "^2.0.1",
         "helmet": "^4.0.0",
